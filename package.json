@@ -46,7 +46,7 @@
     "clsx": "^2.1.1",
     "eslint": "^8.57.0",
     "lint-staged": "^15.2.4",
-    "nuxt": "^3.11.2",
+    "nuxt": "^4.6.2",
     "shadcn-nuxt": "^0.10.4",
     "simple-git-hooks": "^2.11.1",
     "tailwind-merge": "^2.3.0",
